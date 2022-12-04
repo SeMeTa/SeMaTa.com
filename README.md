@@ -1,1 +1,1 @@
-# SeMaTa.github.io
+# SeMaTa
