@@ -1,1 +1,1 @@
-# SeMaTa.com
+# SeMaTa
